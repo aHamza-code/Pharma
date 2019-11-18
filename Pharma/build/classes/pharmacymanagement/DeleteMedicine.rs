@@ -1,0 +1,4 @@
+DeleteMedicine$1
+pharmacyManagement.DeleteMedicine$1
+DeleteMedicine
+pharmacyManagement.DeleteMedicine

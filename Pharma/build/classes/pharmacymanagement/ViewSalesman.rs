@@ -1,0 +1,2 @@
+ViewSalesman
+pharmacyManagement.ViewSalesman

@@ -1,0 +1,2 @@
+SoldMedicineDao
+pharmacyManagement.SoldMedicineDao
